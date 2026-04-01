@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Calculator {
 
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
         double num1, num2;
         char operator;
@@ -52,9 +52,5 @@ public class Calculator {
         }
 
         sc.close();
-
-	}
-
+    }
 }
-this my first collabration 
-this is my confilt;
